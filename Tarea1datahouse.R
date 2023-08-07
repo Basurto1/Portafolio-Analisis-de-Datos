@@ -7,3 +7,4 @@ precio <- "price (in rupees)"
 hist(precio, freq = FALSE)
 class(precio)
 print("esta es una modificacion")
+print ("Segunda prueba de modificacion")
