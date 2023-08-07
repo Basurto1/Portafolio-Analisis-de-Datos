@@ -6,3 +6,4 @@ attach(datos)
 precio <- "price (in rupees)"
 hist(precio, freq = FALSE)
 class(precio)
+print("esta es una modificacion")
